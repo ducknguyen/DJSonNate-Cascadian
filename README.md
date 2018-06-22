@@ -1,4 +1,3 @@
-# DJSonNate-Cascadian
-# Jeremy - Testing Testing 1 2 3
-# Sonie - Testing
-# Duck - quacking
+# Team DJSonNate-Cascadian
+# Duck Nguyen, Jeremy Manalo, Nate Hascup, and Sonie Moon
+This project represents a tracking system for a construction company
